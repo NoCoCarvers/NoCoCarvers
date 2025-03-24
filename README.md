@@ -1,7 +1,9 @@
-## Hi there 👋
+ ## Site for the Northern Colorado Wood Carving Club
 
 <!--
 **NoCoCarvers/NoCoCarvers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- Creating a informational Web Site for our club, containing General information about the club, Future Meeting Schedules, Resources and other nearby clubs.
 
 Here are some ideas to get you started:
 
